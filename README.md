@@ -1,3 +1,6 @@
+
+
+<<<<<<< HEAD
 # ThinkSlide v0.1.0
 
 输入想法或大纲，生成并编辑幻灯片与逐页讲稿，支持网页放映、本地保存、JSON 备份和原生可编辑 PPTX 导出。
@@ -50,3 +53,7 @@ MOONSHOT_MODEL=实际可用的模型名
 | `GET /api/health` | 返回当前生成器及配置状态，不返回密钥 |
 
 前端通过 `src/lib/api.ts` 调用接口；页面组件不直接访问模型 Provider。
+=======
+# thinkslide
+小组课程设计，在这提交PR
+>>>>>>> origin/main
